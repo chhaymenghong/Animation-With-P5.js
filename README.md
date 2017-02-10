@@ -1,8 +1,12 @@
-# Animation-With-P5.js
+# I created the following animations using P5.js
 
 Perlin Noise Flow Field : https://alpha.editor.p5js.org/full/ryFN4MOOx
 
-Fractal Tree with Perlin noise : https://alpha.editor.p5js.org/full/S1Z2MzOOg
+Randomly generated Fractal Tree: https://alpha.editor.p5js.org/full/ByiYsnK_x
+
+Fractal Tree as Particle System: https://alpha.editor.p5js.org/full/ByANNDq_l
+
+Small Fractal Tree with Perlin noise : https://alpha.editor.p5js.org/full/S1Z2MzOOg
 
 Fractal Tree ( move the mouse horizontally to adjust the branching angle ) : https://alpha.editor.p5js.org/full/r1mjXzO_e
 
